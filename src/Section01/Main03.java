@@ -8,6 +8,7 @@ public class Main03 {
 
     public String solution(String str){
         String answer ="";
+        //내가 하는 오답
 //        String[] array = str.split(" ");
 //        for(int i=0;i< array.length;i++){
 //            if(array[i].length()>=array[i+1].length()) answer=array[i];
