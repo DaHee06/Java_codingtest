@@ -2,6 +2,12 @@ package Section01;
 
 import java.util.Scanner;
 
+/**
+ * 영어 알파벳과 특수 문자로 구성된 문자열이 주어지면 영어 알파벳만 뒤집고,
+ * 특수 문자는 자기 자리에 그대로인 문자열을 만들어 출력하는 프로그램을 작성하시오.
+ *
+* */
+
 public class Main05 {
         public String solution(String str){
             String answer;
