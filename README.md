@@ -7,4 +7,4 @@
  -[repalceAll / 숫자만 추출](https://hee-story6.tistory.com/135)  
  -[최소거리 / 문자열압축](https://hee-story6.tistory.com/136)  
 2.Array(1,2차원 배열)  
- -[큰 수 출력]
+ -[큰 수 출력/보이는  학생](https://hee-story6.tistory.com/142)  
