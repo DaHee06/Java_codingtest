@@ -18,6 +18,7 @@ public class Test04 {
         Test04 t = new Test04();
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        t.solution(n);
 
     }
 }
