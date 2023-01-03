@@ -17,7 +17,7 @@ public class Main08 {
         for(int i =0;i<n;i++){
             int cnt = 1;
             for(int j=0;j<n;j++){
-                if(arr[j]>arr[i]) cnt++; //j번째가 크면 cnt 등수가 커짐
+                if(arr[j]>arr[i]) cnt++; //j번째가 크면 cnt 등수가 커짐, 동일 점수일때 동일 등수 됨.
             }
             answer[i] = cnt;
         }
