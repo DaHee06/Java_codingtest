@@ -24,12 +24,12 @@ public class Main06 {
         ArrayList<Integer> answer = new ArrayList<>();
         //for문 돌면서 숫자 뒤집기
         for(int i=0;i<n;i++){
-            int tmp = arr[i];
+            int tmp = arr[i]; //123
             int res = 0;
             while(tmp>0){
-                int t= tmp%10;
+                int t= tmp%10; //나머지
                 res = res*10+t;
-                tmp=tmp/10;
+                tmp=tmp/10; //몫
             }
             if(isPrime(res)) answer.add(res);
         }
